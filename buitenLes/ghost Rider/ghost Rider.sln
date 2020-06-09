@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ghost Rider", "ghost Rider\ghost Rider.csproj", "{FF3F5D55-D03D-42BF-B275-8C87C9C885DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3F5D55-D03D-42BF-B275-8C87C9C885DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3F5D55-D03D-42BF-B275-8C87C9C885DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3F5D55-D03D-42BF-B275-8C87C9C885DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3F5D55-D03D-42BF-B275-8C87C9C885DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E320D120-5794-4E6B-9E8E-23B07CA969B3}
+	EndGlobalSection
+EndGlobal
